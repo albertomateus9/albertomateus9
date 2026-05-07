@@ -24,6 +24,21 @@ I work at the intersection of telecommunications, applied AI, computer vision, a
 | [EduMetrics Hub](https://github.com/albertomateus9/edumetrics-hub) | Learning analytics | Real-time peer-review analytics for engagement and retention scenarios. |
 | [Boas Praticas ISP](https://github.com/albertomateus9/boas-praticas-isp) | ISP consulting | Operational maturity framework for internet service providers. |
 
+## Computer Vision Project Batch
+
+Initial batch of runnable, low-compute MVPs for Telecom + AI + Computer Vision. Every project is browser-first, local-only, MIT-licensed, and designed for later optimization.
+
+| Project | Focus | Demo |
+| --- | --- | --- |
+| [Fresnel Vision Planner](https://github.com/albertomateus9/fresnel-vision-planner) | Visual line-of-sight and Fresnel-zone risk planner for wireless and optical links. | [GitHub Pages](https://albertomateus9.github.io/fresnel-vision-planner/) |
+| [Rack Label OCR Lite](https://github.com/albertomateus9/rack-label-ocr-lite) | Local rack, ODF, and patch-panel label extraction workflow for inventory CSV. | Local MVP |
+| [Cable Color Inspector](https://github.com/albertomateus9/cable-color-inspector) | Traditional vision approach for counting cable and fiber color groups. | Local MVP |
+| [Gesture NOC Controller](https://github.com/albertomateus9/gesture-noc-controller) | Privacy-safe gesture command prototype for NOC dashboard navigation. | Local MVP |
+| [Classroom Occupancy Anon](https://github.com/albertomateus9/classroom-occupancy-anon) | Anonymous occupancy estimator with synthetic demo mode and privacy masking. | Local MVP |
+| [Depth Survey Lite](https://github.com/albertomateus9/depth-survey-lite) | Lightweight browser-side depth survey prototype with optional model hook. | Local MVP |
+| [Edge CV Benchmark](https://github.com/albertomateus9/edge-cv-benchmark) | Browser-side FPS, latency, and memory benchmark for lightweight CV pipelines. | [GitHub Pages](https://albertomateus9.github.io/edge-cv-benchmark/) |
+| [Vision Telemetry Fusion](https://github.com/albertomateus9/vision-telemetry-fusion) | Synthetic fusion of camera, network, and app telemetry for simple anomaly scoring. | Local MVP |
+
 ## Technical Stack
 
 **Telecom and networks:** Open RAN concepts, 5G, Metro Ethernet, GPON, optical networks, OSPF, BGP, MPLS, SNMP, Zabbix, Grafana, Nokia, Datacom, Huawei, MikroTik.
@@ -73,6 +88,21 @@ Atuo na intersecao entre telecomunicacoes, IA aplicada, visao computacional e ed
 | [CertiFlow API](https://github.com/albertomateus9/certiflow-api) | Sistemas educacionais | Arquitetura para geracao e validacao de certificados com integridade criptografica. |
 | [EduMetrics Hub](https://github.com/albertomateus9/edumetrics-hub) | Analitica educacional | Analise em tempo real de avaliacao por pares para cenarios de engajamento e retencao. |
 | [Boas Praticas ISP](https://github.com/albertomateus9/boas-praticas-isp) | Consultoria ISP | Marco de maturidade operacional para provedores de internet. |
+
+## Lote De Projetos Em Visao Computacional
+
+Lote inicial de MVPs executaveis e de baixo custo computacional para Telecom + IA + Visao Computacional. Todos os projetos sao browser-first, rodam localmente, usam licenca MIT e foram desenhados para otimizacao posterior.
+
+| Projeto | Foco | Demo |
+| --- | --- | --- |
+| [Fresnel Vision Planner](https://github.com/albertomateus9/fresnel-vision-planner) | Planejamento visual de linha de visada e risco de zona de Fresnel para enlaces radio/opticos. | [GitHub Pages](https://albertomateus9.github.io/fresnel-vision-planner/) |
+| [Rack Label OCR Lite](https://github.com/albertomateus9/rack-label-ocr-lite) | Fluxo local para extracao de etiquetas de racks, ODFs e patch panels para CSV. | MVP local |
+| [Cable Color Inspector](https://github.com/albertomateus9/cable-color-inspector) | Visao tradicional para contagem de grupos de cores de cabos e fibras. | MVP local |
+| [Gesture NOC Controller](https://github.com/albertomateus9/gesture-noc-controller) | Prototipo de comandos por gestos para navegacao em dashboards NOC com foco em privacidade. | MVP local |
+| [Classroom Occupancy Anon](https://github.com/albertomateus9/classroom-occupancy-anon) | Estimador anonimo de ocupacao com modo sintetico e mascaramento de privacidade. | MVP local |
+| [Depth Survey Lite](https://github.com/albertomateus9/depth-survey-lite) | Prototipo leve de estimativa de profundidade no navegador com hook opcional para modelo. | MVP local |
+| [Edge CV Benchmark](https://github.com/albertomateus9/edge-cv-benchmark) | Benchmark browser-side de FPS, latencia e memoria para pipelines leves de visao. | [GitHub Pages](https://albertomateus9.github.io/edge-cv-benchmark/) |
+| [Vision Telemetry Fusion](https://github.com/albertomateus9/vision-telemetry-fusion) | Fusao sintetica de telemetria de camera, rede e aplicacao para anomalias simples. | MVP local |
 
 ## Stack Tecnico
 
