@@ -54,6 +54,18 @@ Runnable educational MVPs inspired by EETEPA Vilhena Alves, connecting computing
 | [EETEPA Schedule Optimizer](https://github.com/albertomateus9/eetepa-schedule-optimizer) | Simple heuristic scheduling for labs, classes, and rooms. | Local MVP |
 | [EETEPA Cyber Range Lite](https://github.com/albertomateus9/eetepa-cyber-range-lite) | Security-awareness scenarios for passwords, phishing, logs, and risk. | Local MVP |
 
+## Data Science Module I Project Batch
+
+Twenty independent Python/Jupyter repositories for a first-semester technical Data Science portfolio. Each project uses safe samples, reproducible scripts, and lightweight GitHub Actions smoke tests.
+
+- **Data Storage, Manipulation, and Transformation I:** [P01 ENEM Data Cleaning Lab](https://github.com/albertomateus9/enem-data-cleaning-lab), [P02 Movies SQL Python Lab](https://github.com/albertomateus9/movies-sql-python-lab), [P03 IBGE JSON DataFrame Lab](https://github.com/albertomateus9/ibge-json-dataframe-lab), [P04 CONAB Prices Tidy Lab](https://github.com/albertomateus9/conab-prices-tidy-lab), [P05 DATASUS Quality Audit Lab](https://github.com/albertomateus9/datasus-quality-audit-lab)
+- **Logic and Programming Language I:** [P06 IMC Classifier Python Lab](https://github.com/albertomateus9/imc-classifier-python-lab), [P07 Primes Times Table Lab](https://github.com/albertomateus9/primes-times-table-lab), [P08 Student CSV Registry Lab](https://github.com/albertomateus9/student-csv-registry-lab), [P09 Data Science Quiz Lab](https://github.com/albertomateus9/data-science-quiz-lab), [P10 Dice Large Numbers Lab](https://github.com/albertomateus9/dice-large-numbers-lab)
+- **Data Structure and Visualization I:** [P11 Amazon Deforestation Atlas](https://github.com/albertomateus9/amazon-deforestation-atlas), [P12 Para IDH Visual Analysis](https://github.com/albertomateus9/para-idh-visual-analysis), [P13 NASA GISS Temperature Dashboard](https://github.com/albertomateus9/nasa-giss-temperature-dashboard), [P14 Brazil Energy Matrix Infographic](https://github.com/albertomateus9/brazil-energy-matrix-infographic), [P15 Belem Air Quality Heatmap](https://github.com/albertomateus9/belem-air-quality-heatmap)
+- **Digital Transformation I and Environmental Education:** [P16 Digital Carbon Footprint Lab](https://github.com/albertomateus9/digital-carbon-footprint-lab), [P17 Brazil SDG Progress Radar](https://github.com/albertomateus9/brazil-sdg-progress-radar), [P18 Para Fire Seasonality Analysis](https://github.com/albertomateus9/para-fire-seasonality-analysis), [P19 Digital Transformation Timeline](https://github.com/albertomateus9/digital-transformation-timeline)
+- **Semester Integrator Project:** [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory)
+
+Integrator highlight: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combines public-data themes, SQLite, notebooks, and charts in one semester project.
+
 ## Technical Stack
 
 **Telecom and networks:** Open RAN concepts, 5G, Metro Ethernet, GPON, optical networks, OSPF, BGP, MPLS, SNMP, Zabbix, Grafana, Nokia, Datacom, Huawei, MikroTik.
@@ -133,6 +145,18 @@ MVPs educacionais executaveis inspirados na EETEPA Vilhena Alves, conectando inf
 | [EETEPA Lab Inventory Lite](https://github.com/albertomateus9/eetepa-lab-inventory-lite) | Inventario local de maquinas, softwares, portas e ativos de laboratorio. | MVP local |
 | [EETEPA Schedule Optimizer](https://github.com/albertomateus9/eetepa-schedule-optimizer) | Agendamento heuristico simples para laboratorios, turmas e salas. | MVP local |
 | [EETEPA Cyber Range Lite](https://github.com/albertomateus9/eetepa-cyber-range-lite) | Conscientizacao em seguranca com senhas, phishing, logs e risco. | MVP local |
+
+## Lote Ciencia De Dados Modulo I
+
+Vinte repositorios independentes em Python/Jupyter para portfolio tecnico do primeiro semestre de Ciencia de Dados. Cada projeto usa amostras seguras, scripts reprodutiveis e smoke test leve no GitHub Actions.
+
+- **Armazenamento, Manipulacao e Transformacao de Dados I:** [P01 ENEM Data Cleaning Lab](https://github.com/albertomateus9/enem-data-cleaning-lab), [P02 Movies SQL Python Lab](https://github.com/albertomateus9/movies-sql-python-lab), [P03 IBGE JSON DataFrame Lab](https://github.com/albertomateus9/ibge-json-dataframe-lab), [P04 CONAB Prices Tidy Lab](https://github.com/albertomateus9/conab-prices-tidy-lab), [P05 DATASUS Quality Audit Lab](https://github.com/albertomateus9/datasus-quality-audit-lab)
+- **Logica e Linguagem de Programacao I:** [P06 IMC Classifier Python Lab](https://github.com/albertomateus9/imc-classifier-python-lab), [P07 Primes Times Table Lab](https://github.com/albertomateus9/primes-times-table-lab), [P08 Student CSV Registry Lab](https://github.com/albertomateus9/student-csv-registry-lab), [P09 Data Science Quiz Lab](https://github.com/albertomateus9/data-science-quiz-lab), [P10 Dice Large Numbers Lab](https://github.com/albertomateus9/dice-large-numbers-lab)
+- **Estrutura e Visualizacao de Dados I:** [P11 Amazon Deforestation Atlas](https://github.com/albertomateus9/amazon-deforestation-atlas), [P12 Para IDH Visual Analysis](https://github.com/albertomateus9/para-idh-visual-analysis), [P13 NASA GISS Temperature Dashboard](https://github.com/albertomateus9/nasa-giss-temperature-dashboard), [P14 Brazil Energy Matrix Infographic](https://github.com/albertomateus9/brazil-energy-matrix-infographic), [P15 Belem Air Quality Heatmap](https://github.com/albertomateus9/belem-air-quality-heatmap)
+- **Transformacao Digital I e Educacao Ambiental:** [P16 Digital Carbon Footprint Lab](https://github.com/albertomateus9/digital-carbon-footprint-lab), [P17 Brazil SDG Progress Radar](https://github.com/albertomateus9/brazil-sdg-progress-radar), [P18 Para Fire Seasonality Analysis](https://github.com/albertomateus9/para-fire-seasonality-analysis), [P19 Digital Transformation Timeline](https://github.com/albertomateus9/digital-transformation-timeline)
+- **Projeto Integrador do Semestre:** [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory)
+
+Destaque integrador: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combina temas de dados publicos, SQLite, notebooks e graficos em um projeto de fechamento do semestre.
 
 ## Stack Tecnico
 
