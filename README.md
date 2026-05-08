@@ -39,6 +39,21 @@ Initial batch of runnable, low-compute MVPs for Telecom + AI + Computer Vision. 
 | [Edge CV Benchmark](https://github.com/albertomateus9/edge-cv-benchmark) | Browser-side FPS, latency, and memory benchmark for lightweight CV pipelines. | [GitHub Pages](https://albertomateus9.github.io/edge-cv-benchmark/) |
 | [Vision Telemetry Fusion](https://github.com/albertomateus9/vision-telemetry-fusion) | Synthetic fusion of camera, network, and app telemetry for simple anomaly scoring. | Local MVP |
 
+## EETEPA Applied Learning Project Batch
+
+Runnable educational MVPs inspired by EETEPA Vilhena Alves, connecting computing, networks, maker labs, and data science. These are public portfolio prototypes, not official institutional systems, and use synthetic data only.
+
+| Project | Focus | Demo |
+| --- | --- | --- |
+| [EETEPA NetLab Subnet Trainer](https://github.com/albertomateus9/eetepa-netlab-subnet-trainer) | CIDR, VLSM, VLANs, and visual IP addressing practice. | [GitHub Pages](https://albertomateus9.github.io/eetepa-netlab-subnet-trainer/) |
+| [EETEPA Packet Path Visualizer](https://github.com/albertomateus9/eetepa-packet-path-visualizer) | ARP, DNS, TCP, HTTP, and synthetic latency timeline. | Local MVP |
+| [EETEPA Data ETL Playground](https://github.com/albertomateus9/eetepa-data-etl-playground) | Local CSV/JSON cleaning, filters, CRUD concepts, and export. | [GitHub Pages](https://albertomateus9.github.io/eetepa-data-etl-playground/) |
+| [EETEPA Maker Serial Dashboard](https://github.com/albertomateus9/eetepa-maker-serial-dashboard) | Web Serial dashboard for Arduino/ESP32 labs with synthetic mode. | Local MVP |
+| [EETEPA Helpdesk Analytics](https://github.com/albertomateus9/eetepa-helpdesk-analytics) | Synthetic lab support tickets, SLA, categories, and metrics. | Local MVP |
+| [EETEPA Lab Inventory Lite](https://github.com/albertomateus9/eetepa-lab-inventory-lite) | Local inventory of lab machines, software, ports, and assets. | Local MVP |
+| [EETEPA Schedule Optimizer](https://github.com/albertomateus9/eetepa-schedule-optimizer) | Simple heuristic scheduling for labs, classes, and rooms. | Local MVP |
+| [EETEPA Cyber Range Lite](https://github.com/albertomateus9/eetepa-cyber-range-lite) | Security-awareness scenarios for passwords, phishing, logs, and risk. | Local MVP |
+
 ## Technical Stack
 
 **Telecom and networks:** Open RAN concepts, 5G, Metro Ethernet, GPON, optical networks, OSPF, BGP, MPLS, SNMP, Zabbix, Grafana, Nokia, Datacom, Huawei, MikroTik.
@@ -103,6 +118,21 @@ Lote inicial de MVPs executaveis e de baixo custo computacional para Telecom + I
 | [Depth Survey Lite](https://github.com/albertomateus9/depth-survey-lite) | Prototipo leve de estimativa de profundidade no navegador com hook opcional para modelo. | MVP local |
 | [Edge CV Benchmark](https://github.com/albertomateus9/edge-cv-benchmark) | Benchmark browser-side de FPS, latencia e memoria para pipelines leves de visao. | [GitHub Pages](https://albertomateus9.github.io/edge-cv-benchmark/) |
 | [Vision Telemetry Fusion](https://github.com/albertomateus9/vision-telemetry-fusion) | Fusao sintetica de telemetria de camera, rede e aplicacao para anomalias simples. | MVP local |
+
+## Lote EETEPA De Aprendizagem Aplicada
+
+MVPs educacionais executaveis inspirados na EETEPA Vilhena Alves, conectando informatica, redes, laboratorio maker e ciencia de dados. Sao prototipos publicos de portfolio, nao sistemas oficiais institucionais, e usam apenas dados sinteticos.
+
+| Projeto | Foco | Demo |
+| --- | --- | --- |
+| [EETEPA NetLab Subnet Trainer](https://github.com/albertomateus9/eetepa-netlab-subnet-trainer) | CIDR, VLSM, VLANs e pratica visual de enderecamento IP. | [GitHub Pages](https://albertomateus9.github.io/eetepa-netlab-subnet-trainer/) |
+| [EETEPA Packet Path Visualizer](https://github.com/albertomateus9/eetepa-packet-path-visualizer) | Linha do tempo com ARP, DNS, TCP, HTTP e latencia sintetica. | MVP local |
+| [EETEPA Data ETL Playground](https://github.com/albertomateus9/eetepa-data-etl-playground) | Limpeza local de CSV/JSON, filtros, conceitos de CRUD e exportacao. | [GitHub Pages](https://albertomateus9.github.io/eetepa-data-etl-playground/) |
+| [EETEPA Maker Serial Dashboard](https://github.com/albertomateus9/eetepa-maker-serial-dashboard) | Dashboard Web Serial para Arduino/ESP32 com modo sintetico. | MVP local |
+| [EETEPA Helpdesk Analytics](https://github.com/albertomateus9/eetepa-helpdesk-analytics) | Chamados sinteticos de laboratorio, SLA, categorias e metricas. | MVP local |
+| [EETEPA Lab Inventory Lite](https://github.com/albertomateus9/eetepa-lab-inventory-lite) | Inventario local de maquinas, softwares, portas e ativos de laboratorio. | MVP local |
+| [EETEPA Schedule Optimizer](https://github.com/albertomateus9/eetepa-schedule-optimizer) | Agendamento heuristico simples para laboratorios, turmas e salas. | MVP local |
+| [EETEPA Cyber Range Lite](https://github.com/albertomateus9/eetepa-cyber-range-lite) | Conscientizacao em seguranca com senhas, phishing, logs e risco. | MVP local |
 
 ## Stack Tecnico
 
