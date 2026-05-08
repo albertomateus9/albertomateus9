@@ -45,7 +45,7 @@ Runnable educational MVPs inspired by EETEPA Vilhena Alves, connecting computing
 
 | Project | Focus | Demo |
 | --- | --- | --- |
-| [EETEPA NetLab Subnet Trainer](https://github.com/albertomateus9/eetepa-netlab-subnet-trainer) | CIDR, VLSM, VLANs, and visual IP addressing practice. | [GitHub Pages](https://albertomateus9.github.io/eetepa-netlab-subnet-trainer/) |
+| [EETEPA NetLab Subnet Trainer](https://github.com/albertomateus9/eetepa-netlab-subnet-trainer) | CIDR, VLSM, VLANs, and visual IP planning practice. | [GitHub Pages](https://albertomateus9.github.io/eetepa-netlab-subnet-trainer/) |
 | [EETEPA Packet Path Visualizer](https://github.com/albertomateus9/eetepa-packet-path-visualizer) | ARP, DNS, TCP, HTTP, and synthetic latency timeline. | Local MVP |
 | [EETEPA Data ETL Playground](https://github.com/albertomateus9/eetepa-data-etl-playground) | Local CSV/JSON cleaning, filters, CRUD concepts, and export. | [GitHub Pages](https://albertomateus9.github.io/eetepa-data-etl-playground/) |
 | [EETEPA Maker Serial Dashboard](https://github.com/albertomateus9/eetepa-maker-serial-dashboard) | Web Serial dashboard for Arduino/ESP32 labs with synthetic mode. | Local MVP |
