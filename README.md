@@ -66,6 +66,23 @@ Twenty independent Python/Jupyter repositories for a first-semester technical Da
 
 Integrator highlight: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combines public-data themes, SQLite, notebooks, and charts in one semester project.
 
+## Informatics and Networks Semester I Project Batch
+
+Thirty independent educational repositories for Technical Computing and Computer Networks, combining static web labs, Python automation, management analytics, Wi-Fi/networking practice, and integrator projects. All repositories use synthetic data, MIT licensing, and lightweight smoke tests.
+
+- **Technical Computing / Web Technologies:** [I-01 Student Portfolio Pages Lab](https://github.com/albertomateus9/student-portfolio-pages-lab), [I-02 Belem Local Site Redesign Lab](https://github.com/albertomateus9/belem-local-site-redesign-lab), [I-03 Emerging Tech News Site](https://github.com/albertomateus9/emerging-tech-news-site), [I-04 Web Form Validation Lab](https://github.com/albertomateus9/web-form-validation-lab)
+- **Technical Computing / Website Design:** [I-05 Para Public Service UX Redesign Lab](https://github.com/albertomateus9/para-gov-ux-redesign-lab), [I-06 Mini Design System CSS Lab](https://github.com/albertomateus9/mini-design-system-css-lab), [I-07 Belem Mobile App Landing Page](https://github.com/albertomateus9/belem-mobile-app-landing-page)
+- **Technical Computing / Emerging Technologies:** [I-08 Course FAQ Chatbot Python](https://github.com/albertomateus9/course-faq-chatbot-python), [I-09 Classroom IoT Simulator](https://github.com/albertomateus9/classroom-iot-simulator), [I-10 Brazil AI Use Heatmap Lab](https://github.com/albertomateus9/brazil-ai-use-heatmap-lab)
+- **Technical Computing / Applied IT Management:** [I-11 IT Helpdesk CSV SLA Lab](https://github.com/albertomateus9/it-helpdesk-csv-sla-lab), [I-12 School Inventory Dashboard Python](https://github.com/albertomateus9/school-inventory-dashboard-python), [I-13 IT Project Gantt Planner](https://github.com/albertomateus9/it-project-gantt-planner)
+- **Technical Computing / Integrator Project:** [I-14 School CMS Static Site](https://github.com/albertomateus9/school-cms-static-site), [I-15 IT Career Skills Assistant](https://github.com/albertomateus9/it-career-skills-assistant)
+- **Computer Networks / Systems Analysis:** [R-01 School Network Topology Diagram](https://github.com/albertomateus9/school-network-topology-diagram), [R-02 Requirements Report Generator](https://github.com/albertomateus9/requirements-report-generator), [R-03 Support Process Flowchart](https://github.com/albertomateus9/support-process-flowchart)
+- **Computer Networks / IT Management and Regulation:** [R-04 Privacy Policy LGPD Analyzer](https://github.com/albertomateus9/privacy-policy-lgpd-analyzer), [R-05 Cyber Incident Dashboard BR](https://github.com/albertomateus9/cyber-incident-dashboard-br), [R-06 Acceptable Use Policy Simulator](https://github.com/albertomateus9/acceptable-use-policy-simulator)
+- **Computer Networks / Mobile and Wireless Networks:** [R-07 Wi-Fi Scan Analyzer Lab](https://github.com/albertomateus9/wifi-scan-analyzer-lab), [R-08 Connection Quality Monitor](https://github.com/albertomateus9/connection-quality-monitor), [R-09 Wi-Fi Coverage Heatmap Survey](https://github.com/albertomateus9/wifi-coverage-heatmap-survey), [R-10 IoT Traffic Patterns Analysis](https://github.com/albertomateus9/iot-traffic-patterns-analysis)
+- **Computer Networks / Network Programming:** [R-11 Server Availability Monitor](https://github.com/albertomateus9/server-availability-monitor), [R-12 Web Server Log Analyzer](https://github.com/albertomateus9/web-server-log-analyzer), [R-13 Backup Automation Report Lab](https://github.com/albertomateus9/backup-automation-report-lab), [R-14 Network Inventory Scan Lab](https://github.com/albertomateus9/network-inventory-scan-lab)
+- **Computer Networks / Integrator Project:** [R-15 Student NOC Dashboard](https://github.com/albertomateus9/student-noc-dashboard)
+
+Public demo highlights: [I-14 School CMS Static Site](https://github.com/albertomateus9/school-cms-static-site), [I-15 IT Career Skills Assistant](https://github.com/albertomateus9/it-career-skills-assistant), and [R-15 Student NOC Dashboard](https://github.com/albertomateus9/student-noc-dashboard).
+
 ## Technical Stack
 
 **Telecom and networks:** Open RAN concepts, 5G, Metro Ethernet, GPON, optical networks, OSPF, BGP, MPLS, SNMP, Zabbix, Grafana, Nokia, Datacom, Huawei, MikroTik.
@@ -157,6 +174,23 @@ Vinte repositorios independentes em Python/Jupyter para portfolio tecnico do pri
 - **Projeto Integrador do Semestre:** [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory)
 
 Destaque integrador: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combina temas de dados publicos, SQLite, notebooks e graficos em um projeto de fechamento do semestre.
+
+## Lote Informatica E Redes Semestre I
+
+Trinta repositorios educacionais independentes para Tecnico em Informatica e Tecnico em Redes de Computadores, combinando laboratorios web estaticos, automacao Python, analitica de gestao, pratica de Wi-Fi/redes e projetos integradores. Todos usam dados sinteticos, licenca MIT e smoke tests leves.
+
+- **Tecnico em Informatica / Tecnologias Web:** [I-01 Student Portfolio Pages Lab](https://github.com/albertomateus9/student-portfolio-pages-lab), [I-02 Belem Local Site Redesign Lab](https://github.com/albertomateus9/belem-local-site-redesign-lab), [I-03 Emerging Tech News Site](https://github.com/albertomateus9/emerging-tech-news-site), [I-04 Web Form Validation Lab](https://github.com/albertomateus9/web-form-validation-lab)
+- **Tecnico em Informatica / Designer de Websites:** [I-05 Para Public Service UX Redesign Lab](https://github.com/albertomateus9/para-gov-ux-redesign-lab), [I-06 Mini Design System CSS Lab](https://github.com/albertomateus9/mini-design-system-css-lab), [I-07 Belem Mobile App Landing Page](https://github.com/albertomateus9/belem-mobile-app-landing-page)
+- **Tecnico em Informatica / Tecnologias Emergentes:** [I-08 Course FAQ Chatbot Python](https://github.com/albertomateus9/course-faq-chatbot-python), [I-09 Classroom IoT Simulator](https://github.com/albertomateus9/classroom-iot-simulator), [I-10 Brazil AI Use Heatmap Lab](https://github.com/albertomateus9/brazil-ai-use-heatmap-lab)
+- **Tecnico em Informatica / Gestao Aplicada a Informatica:** [I-11 IT Helpdesk CSV SLA Lab](https://github.com/albertomateus9/it-helpdesk-csv-sla-lab), [I-12 School Inventory Dashboard Python](https://github.com/albertomateus9/school-inventory-dashboard-python), [I-13 IT Project Gantt Planner](https://github.com/albertomateus9/it-project-gantt-planner)
+- **Tecnico em Informatica / Projeto Integrador:** [I-14 School CMS Static Site](https://github.com/albertomateus9/school-cms-static-site), [I-15 IT Career Skills Assistant](https://github.com/albertomateus9/it-career-skills-assistant)
+- **Tecnico em Redes de Computadores / Analise de Sistemas:** [R-01 School Network Topology Diagram](https://github.com/albertomateus9/school-network-topology-diagram), [R-02 Requirements Report Generator](https://github.com/albertomateus9/requirements-report-generator), [R-03 Support Process Flowchart](https://github.com/albertomateus9/support-process-flowchart)
+- **Tecnico em Redes de Computadores / Gestao e Regulamentacao de TI:** [R-04 Privacy Policy LGPD Analyzer](https://github.com/albertomateus9/privacy-policy-lgpd-analyzer), [R-05 Cyber Incident Dashboard BR](https://github.com/albertomateus9/cyber-incident-dashboard-br), [R-06 Acceptable Use Policy Simulator](https://github.com/albertomateus9/acceptable-use-policy-simulator)
+- **Tecnico em Redes de Computadores / Mobile e Redes Sem Fio:** [R-07 Wi-Fi Scan Analyzer Lab](https://github.com/albertomateus9/wifi-scan-analyzer-lab), [R-08 Connection Quality Monitor](https://github.com/albertomateus9/connection-quality-monitor), [R-09 Wi-Fi Coverage Heatmap Survey](https://github.com/albertomateus9/wifi-coverage-heatmap-survey), [R-10 IoT Traffic Patterns Analysis](https://github.com/albertomateus9/iot-traffic-patterns-analysis)
+- **Tecnico em Redes de Computadores / Programacao para Ambientes de Redes:** [R-11 Server Availability Monitor](https://github.com/albertomateus9/server-availability-monitor), [R-12 Web Server Log Analyzer](https://github.com/albertomateus9/web-server-log-analyzer), [R-13 Backup Automation Report Lab](https://github.com/albertomateus9/backup-automation-report-lab), [R-14 Network Inventory Scan Lab](https://github.com/albertomateus9/network-inventory-scan-lab)
+- **Tecnico em Redes de Computadores / Projeto Integrador:** [R-15 Student NOC Dashboard](https://github.com/albertomateus9/student-noc-dashboard)
+
+Destaques com demo publica: [I-14 School CMS Static Site](https://github.com/albertomateus9/school-cms-static-site), [I-15 IT Career Skills Assistant](https://github.com/albertomateus9/it-career-skills-assistant) e [R-15 Student NOC Dashboard](https://github.com/albertomateus9/student-noc-dashboard).
 
 ## Stack Tecnico
 
