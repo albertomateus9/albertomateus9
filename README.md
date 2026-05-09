@@ -66,6 +66,14 @@ Twenty independent Python/Jupyter repositories for a first-semester technical Da
 
 Integrator highlight: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combines public-data themes, SQLite, notebooks, and charts in one semester project.
 
+## Playful Classroom Project Batch
+
+Six teacher-led classroom web games for playful technical lessons across Informatics, Computer Networks, and Data Science. Each project runs on GitHub Pages, uses fictional teams, stores state locally, and exports classroom reports.
+
+- **Teacher-Led Playful Classroom Games:** [L-01 EETEPA Mission Control Classroom](https://github.com/albertomateus9/eetepa-mission-control-classroom), [L-02 Packet Rescue Network Quest](https://github.com/albertomateus9/packet-rescue-network-quest), [L-03 Subnet Island Conquest](https://github.com/albertomateus9/subnet-island-conquest), [L-04 Data Detective ETL Mystery](https://github.com/albertomateus9/data-detective-etl-mystery), [L-05 Cyber Ethics Courtroom](https://github.com/albertomateus9/cyber-ethics-courtroom), [L-06 Web Boss Debug Arena](https://github.com/albertomateus9/web-boss-debug-arena)
+
+Demo set: [L-01](https://albertomateus9.github.io/eetepa-mission-control-classroom/), [L-02](https://albertomateus9.github.io/packet-rescue-network-quest/), [L-03](https://albertomateus9.github.io/subnet-island-conquest/), [L-04](https://albertomateus9.github.io/data-detective-etl-mystery/), [L-05](https://albertomateus9.github.io/cyber-ethics-courtroom/), [L-06](https://albertomateus9.github.io/web-boss-debug-arena/).
+
 ## Informatics and Networks Semester I Project Batch
 
 Thirty independent educational repositories for Technical Computing and Computer Networks, combining static web labs, Python automation, management analytics, Wi-Fi/networking practice, and integrator projects. All repositories use synthetic data, MIT licensing, and lightweight smoke tests.
@@ -174,6 +182,14 @@ Vinte repositorios independentes em Python/Jupyter para portfolio tecnico do pri
 - **Projeto Integrador do Semestre:** [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory)
 
 Destaque integrador: [P20 COP30 Para Data Observatory](https://github.com/albertomateus9/cop30-para-data-observatory) combina temas de dados publicos, SQLite, notebooks e graficos em um projeto de fechamento do semestre.
+
+## Lote Aulas Ludicas
+
+Seis jogos web conduzidos pelo professor para aulas tecnicas ludicas em Informatica, Redes de Computadores e Ciencia de Dados. Cada projeto roda no GitHub Pages, usa equipes ficticias, guarda estado localmente e exporta relatorios da aula.
+
+- **Jogos Ludicos Conduzidos Pelo Professor:** [L-01 EETEPA Mission Control Classroom](https://github.com/albertomateus9/eetepa-mission-control-classroom), [L-02 Packet Rescue Network Quest](https://github.com/albertomateus9/packet-rescue-network-quest), [L-03 Subnet Island Conquest](https://github.com/albertomateus9/subnet-island-conquest), [L-04 Data Detective ETL Mystery](https://github.com/albertomateus9/data-detective-etl-mystery), [L-05 Cyber Ethics Courtroom](https://github.com/albertomateus9/cyber-ethics-courtroom), [L-06 Web Boss Debug Arena](https://github.com/albertomateus9/web-boss-debug-arena)
+
+Demos: [L-01](https://albertomateus9.github.io/eetepa-mission-control-classroom/), [L-02](https://albertomateus9.github.io/packet-rescue-network-quest/), [L-03](https://albertomateus9.github.io/subnet-island-conquest/), [L-04](https://albertomateus9.github.io/data-detective-etl-mystery/), [L-05](https://albertomateus9.github.io/cyber-ethics-courtroom/), [L-06](https://albertomateus9.github.io/web-boss-debug-arena/).
 
 ## Lote Informatica E Redes Semestre I
 
