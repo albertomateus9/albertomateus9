@@ -1,8 +1,12 @@
-# Alberto Mateus P. da Gama
+﻿# Alberto Mateus P. da Gama
 
 Engenheiro de Telecomunicações, Analista de Redes e Infraestrutura, Pesquisador em Visão Computacional e Educador STEAM.
 
 Atuo na interseção entre telecomunicações, redes, IA aplicada, visão computacional e educação tecnológica. Este perfil reúne projetos públicos com foco em portfólio profissional, aulas práticas, laboratórios seguros e demonstrações de baixo custo computacional.
+
+## Projeto Premium Em Destaque
+
+- [WebCraft Studio](https://github.com/albertomateus9/webcraft-studio) · [Demo](https://albertomateus9.github.io/webcraft-studio/): ambiente lúdico para aprender HTML, CSS e JavaScript com blocos, missões, preview ao vivo, console didático, validação automática, modo professor e PWA instalável.
 
 ## Projetos De Vitrine
 
@@ -18,6 +22,7 @@ Atuo na interseção entre telecomunicações, redes, IA aplicada, visão comput
 - Laboratórios EETEPA: 8 apps Vite em GitHub Pages para redes, dados, maker, inventário, cyber range e gestão de laboratório.
 - Informática + Redes: 10 laboratórios web estáticos com HTML, CSS e JavaScript simples.
 - Aulas Lúdicas EETEPA: 6 jogos web em Português-BR para condução do professor em sala.
+- WebCraft Studio: laboratório premium de aprendizagem Web com compilador interativo e instalação como PWA.
 
 ## Lotes Educacionais
 
@@ -43,3 +48,4 @@ Os projetos públicos usam dados sintéticos, amostras pequenas ou fontes públi
 - Doutorando com linha de pesquisa em Visão Computacional.
 - Engenheiro de Telecomunicações, Tecnólogo em Análise e Desenvolvimento de Sistemas e Licenciado em Física.
 - Currículo Lattes: http://lattes.cnpq.br/1831130831245161
+
