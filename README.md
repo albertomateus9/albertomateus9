@@ -177,7 +177,7 @@ Destaque integrador: [P20 COP30 Para Data Observatory](https://github.com/albert
 
 ## Lote Aulas Lúdicas EETEPA
 
-Seis jogos web em Português-BR, conduzidos pelo professor, para aulas lúdicas de Informática, Redes de Computadores e Ciência de Dados. Cada projeto roda no GitHub Pages, usa equipes fictícias, guarda estado apenas no navegador e exporta relatórios da aula.
+Seis jogos web em Português-BR, conduzidos pelo professor, com identidades visuais e mecânicas próprias para aulas lúdicas de Informática, Redes de Computadores e Ciência de Dados. Cada projeto roda no GitHub Pages, usa equipes fictícias, guarda estado apenas no navegador e exporta relatórios da aula.
 
 - **Jogos lúdicos conduzidos pelo professor:** [L-01 Central de Missões EETEPA](https://github.com/albertomateus9/eetepa-mission-control-classroom), [L-02 Resgate do Pacote: Missão de Redes](https://github.com/albertomateus9/packet-rescue-network-quest), [L-03 Conquista das Ilhas de Sub-redes](https://github.com/albertomateus9/subnet-island-conquest), [L-04 Detetives de Dados: Mistério ETL](https://github.com/albertomateus9/data-detective-etl-mystery), [L-05 Tribunal de Ética Digital](https://github.com/albertomateus9/cyber-ethics-courtroom), [L-06 Arena Chefão Web: Depuração](https://github.com/albertomateus9/web-boss-debug-arena)
 
