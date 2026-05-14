@@ -7,6 +7,7 @@ Atuo na interseção entre telecomunicações, redes, IA aplicada, visão comput
 ## Projeto Premium Em Destaque
 
 - [WebCraft Studio](https://github.com/albertomateus9/webcraft-studio) · [Demo](https://albertomateus9.github.io/webcraft-studio/): ambiente lúdico para aprender HTML, CSS e JavaScript com blocos, missões, preview ao vivo, console didático, validação automática, modo professor e PWA instalável.
+- [EETEPA Vilhena Alves](https://github.com/albertomateus9/eetepa-vilhena-alves) · [Demo](https://albertomateus9.github.io/eetepa-vilhena-alves/): site estático premium, responsivo e demonstrativo para apresentar cursos, laboratórios, projetos e contato local sem envio de dados.
 
 ## Projetos De Vitrine
 
