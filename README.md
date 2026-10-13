@@ -51,6 +51,6 @@ Rock, começando no violão, astronomia e leituras de física, filosofia e tecno
 
 Sobre código aberto, automação, IA, redes ou alguma ideia que também esteja em alpha.
 
-- 🎓 **Acadêmico:** [alberto.gama@itec.ufpa.br](mailto:alberto.gama@itec.ufpa.br)
+- 🎓 **Acadêmico (UFPA):** [alberto.gama@itec.ufpa.br](mailto:alberto.gama@itec.ufpa.br)
 - 🏫 **Institucional (SECTET):** [alberto.gama@docente.sectet.pa.gov.br](mailto:alberto.gama@docente.sectet.pa.gov.br)
 - 📫 **Pessoal:** [albertomateus9@gmail.com](mailto:albertomateus9@gmail.com)
