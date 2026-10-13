@@ -1,4 +1,4 @@
-﻿# Alberto Mateus P. da Gama
+﻿# Alberto Mateus Pinheiro da Gama
 
 Engenheiro de Telecomunicações, Analista de Redes e Infraestrutura, Pesquisador em Visão Computacional e Educador STEAM.
 
