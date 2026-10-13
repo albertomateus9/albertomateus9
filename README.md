@@ -1,52 +1,47 @@
-﻿# Alberto Mateus Pinheiro da Gama
+<div align="center">
 
-Engenheiro de Telecomunicações, Analista de Redes e Infraestrutura, Pesquisador em Visão Computacional e Educador STEAM.
+# Oi, eu sou o Alberto 👋
 
-Atuo na interseção entre telecomunicações, redes, IA aplicada, visão computacional e educação tecnológica. Este perfil reúne projetos públicos com foco em portfólio profissional, aulas práticas, laboratórios seguros e demonstrações de baixo custo computacional.
+**Dev em Belém/PA 🌴 · Python, Linux e curiosidade**
 
-## Projeto Premium Em Destaque
+Gosto de entender como as coisas funcionam. Às vezes, isso vira código.
 
-- [WebCraft Studio](https://github.com/albertomateus9/webcraft-studio) · [Demo](https://albertomateus9.github.io/webcraft-studio/): ambiente lúdico para aprender HTML, CSS e JavaScript com blocos, missões, preview ao vivo, console didático, validação automática, modo professor e PWA instalável.
-- [EETEPA Vilhena Alves](https://github.com/albertomateus9/eetepa-vilhena-alves) · [Demo](https://albertomateus9.github.io/eetepa-vilhena-alves/): site estático premium, responsivo e demonstrativo para apresentar cursos, laboratórios, projetos e contato local sem envio de dados.
+</div>
 
-## Projetos De Vitrine
+## Um pouco sobre mim
 
-- [NetMaster CLI/API](https://github.com/albertomateus9/netmaster-cli-api): automação de redes com Python, FastAPI, Typer e arquitetura limpa.
-- [CampusWatch SNMP](https://github.com/albertomateus9/campuswatch-snmp): monitoramento SNMP para infraestrutura de campus.
-- [CertiFlow API](https://github.com/albertomateus9/certiflow-api): geração e validação de certificados com integridade SHA-256.
-- [EduMetrics Hub](https://github.com/albertomateus9/edumetrics-hub): analítica educacional e sinais de engajamento.
-- [Boas Práticas ISP](https://github.com/albertomateus9/boas-praticas-isp): framework consultivo para maturidade operacional de provedores.
+Programo, ensino e vivo encontrando mais uma coisa para aprender. Gosto de automatizar tarefas, explorar IA e descobrir o que acontece por trás de uma ferramenta. Tenho uma queda por código aberto e por coisas que consigo rodar na minha própria máquina.
 
-## Demos Publicas
+```python
+alberto = {
+    "base": "Belém, Pará",
+    "interesses": ["automação", "IA", "redes", "dados"],
+    "metodo": "entender, testar, ajustar, repetir",
+    "status": "mais uma ideia em alpha",
+}
+```
 
-- Visão computacional e telecom: [Planejador Fresnel](https://albertomateus9.github.io/fresnel-vision-planner/), [Benchmark Edge CV](https://albertomateus9.github.io/edge-cv-benchmark/) e demais MVPs publicados em GitHub Pages.
-- Laboratórios EETEPA: 8 apps Vite em GitHub Pages para redes, dados, maker, inventário, cyber range e gestão de laboratório.
-- Informática + Redes: 10 laboratórios web estáticos com HTML, CSS e JavaScript simples.
-- Aulas Lúdicas EETEPA: 6 jogos web em Português-BR para condução do professor em sala.
-- WebCraft Studio: laboratório premium de aprendizagem Web com compilador interativo e instalação como PWA.
+## O que anda aberto no meu terminal 🧑‍💻
 
-## Lotes Educacionais
+- 🐍 Python, APIs e scripts para facilitar a vida.
+- 🧠 Visão computacional e experimentos com IA.
+- 🐧 Linux, Docker e ferramentas que posso hospedar por conta própria.
+- 🛠️ Ideias de ferramentas para aprender e ensinar programação.
 
-- **Ciência de Dados Módulo I:** 20 projetos Python/Jupyter com amostras seguras, CI leve e foco curricular.
-- **Informática + Redes 2026.1:** 30 projetos de HTML/CSS/JS, Python, gestão de TI, redes sem fio e automação.
-- **EETEPA Aprendizagem Aplicada:** 8 apps browser-first conectando informática, redes e ciência de dados.
-- **Aulas Lúdicas:** 6 jogos web para missões, equipes, pontuação, cartas imprimíveis e relatórios.
+Por aqui, os projetos ainda estão em **alpha**. Este GitHub é meu laboratório: tem rascunho, experimento e coisa que ainda vai mudar bastante.
 
-## Foco Tecnico
+## Ferramentas que aparecem por aqui 🧰
 
-- Telecomunicações, redes IP, infraestrutura óptica e monitoramento.
-- Visão computacional, IA aplicada, automação e análise de dados.
-- Educação tecnológica, STEAM, projetos integradores e laboratórios práticos.
-- Python, TypeScript, React/Vite, HTML/CSS/JS, GitHub Actions e GitHub Pages.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,linux,docker,git&perline=8" alt="Python, FastAPI, JavaScript, TypeScript, React, Linux, Docker e Git" />
+</p>
 
-## Politica De Dados
+## Fora do código 🎸
 
-Os projetos públicos usam dados sintéticos, amostras pequenas ou fontes públicas documentadas. Não publico dados reais de estudantes, documentos internos, telefones, e-mails pessoais, credenciais ou informações sensíveis.
+Rock, começando no violão, astronomia e leituras de física, filosofia e tecnologia. A lista de interesses cresce mais rápido que o tempo disponível.
 
-## Formação E Pesquisa
+## Bora trocar uma ideia? 💬
 
-- Mestre em Engenharia Elétrica.
-- Doutorando com linha de pesquisa em Visão Computacional.
-- Engenheiro de Telecomunicações, Tecnólogo em Análise e Desenvolvimento de Sistemas e Licenciado em Física.
-- Currículo Lattes: http://lattes.cnpq.br/1831130831245161
+Sobre código aberto, automação, IA, redes ou alguma ideia que também esteja em alpha.
 
+📫 [alberto.gama@itec.ufpa.br](mailto:alberto.gama@itec.ufpa.br)
