@@ -2,20 +2,27 @@
 
 # Oi, eu sou o Alberto 👋
 
-**Dev em Belém/PA 🌴 · Python, Linux e curiosidade**
+**Dev em Belém/PA 🌴 · Professor de cursos técnicos · Eterno aprendiz**
 
 Gosto de entender como as coisas funcionam. Às vezes, isso vira código.
+
+<p>
+  <img src="assets/hello-terminal.svg" width="560" alt="Alberto: dev em Belém, professor de cursos técnicos e eterno aprendiz no doutorado" />
+  <img src="assets/learning-bot.svg" width="136" alt="Robô aprendiz acenando, com olhos que piscam e a palavra alpha no corpo" />
+</p>
 
 </div>
 
 ## Um pouco sobre mim
 
-Programo, ensino e vivo encontrando mais uma coisa para aprender. Gosto de automatizar tarefas, explorar IA e descobrir o que acontece por trás de uma ferramenta. Tenho uma queda por código aberto e por coisas que consigo rodar na minha própria máquina.
+Sou professor de cursos técnicos em **Informática, Redes de Computadores e Ciência de Dados**. Também sou um eterno aprendiz, ainda no **doutorado em Computação Aplicada**, explorando visão computacional e IA. Entre uma aula e um experimento, sigo encontrando mais uma coisa para aprender. Gosto de automatizar tarefas, explorar IA e descobrir o que acontece por trás de uma ferramenta. Tenho uma queda por código aberto e por coisas que consigo rodar na minha própria máquina.
 
 ```python
 alberto = {
     "base": "Belém, Pará",
     "interesses": ["automação", "IA", "redes", "dados"],
+    "ensino": ["Informática", "Redes", "Ciência de Dados"],
+    "aprendizado": "doutorado em andamento",
     "metodo": "entender, testar, ajustar, repetir",
     "status": "mais uma ideia em alpha",
 }
